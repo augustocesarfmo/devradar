@@ -9,7 +9,6 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 - [express](https://expressjs.com/)
 - [axios](https://github.com/axios/axios)
 - [mongoose](https://mongoosejs.com/)
-- [vs code][vc]
 
 ## ℹ️ Executando
 
@@ -33,7 +32,7 @@ $ yarn dev
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar-backend/blob/master/LICENSE.md) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar/blob/main/devradar-backend/LICENSE.md) para obter mais informações.
 
 ---
 

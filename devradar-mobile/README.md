@@ -11,7 +11,6 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 - [react-native](https://facebook.github.io/react-native/)
 - [expo](https://expo.io)
 - [axios](https://github.com/axios/axios)
-- [vs code][vc]
 
 ## ℹ️ Executando
 
@@ -35,7 +34,7 @@ $ yarn ios | yarn android
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar-mobile/blob/master/LICENSE.md) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar/blob/main/devradar-mobile/LICENSE.md) para obter mais informações.
 
 ---
 

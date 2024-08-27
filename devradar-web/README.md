@@ -10,7 +10,6 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
 - [reactjs](https://reactjs.org)
 - [axios](https://github.com/axios/axios)
-- [vs code][vc]
 
 ## ℹ️ Executando
 
@@ -34,7 +33,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar-web/blob/master/LICENSE.md) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/devradar/blob/main/devradar-web/LICENSE.md) para obter mais informações.
 
 ---
 

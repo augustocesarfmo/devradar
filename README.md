@@ -1,6 +1,6 @@
 # DevRadar
 
-Plataforma web e móvel desenvolvida na semana OmniStack 10.0 da [Rocketseat](https://rocketseat.com.br/) para gerenciamento e busca de desenvolvedores que residem próximo a você num raio de 100 km.
+DevRadar é uma plataforma web e móvel que foi desenvolvida na semana OmniStack 10.0 da [Rocketseat](https://rocketseat.com.br/) para gerenciamento e busca de desenvolvedores que residem próximo a você num raio de 100 km.
 
 ![](https://imgur.com/IvXvKu4.png)
 ![](https://imgur.com/KIuGENa.png)
